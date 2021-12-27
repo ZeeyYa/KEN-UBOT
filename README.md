@@ -1,7 +1,7 @@
 <h1 align="center"><img src="./resources/extras/kenn.gif" width="20px">    KEN - UBOT    <img src="./resources/extras/kenn.gif" width="20px"></h1>
 
 <p align="center">
-    <a href="https://github.com/KennedyProject/KEN-UBOT/commits/KEN-UBOT"><img src="https://img.shields.io/github/last-commit/KennedyProject/KEN-UBOT?color=ff0000&logo=github&logoColor=ffffff&style=for-the-badge" /></a>
+    <a href="https://github.com/ZeeyYa/KEN-UBOT/commits/KEN-UBOT"><img src="https://img.shields.io/github/last-commit/KennedyProject/KEN-UBOT?color=ff0000&logo=github&logoColor=ffffff&style=for-the-badge" /></a>
     <a href="https://github.com/KennedyProject/KEN-UBOT"> <img src="https://img.shields.io/github/repo-size/KennedyProject/KEN-UBOT?logo=github&style=for-the-badge" /></a>
     <a href="https://pypi.org/project/Telethon/"><img src="https://img.shields.io/pypi/v/telethon?color=important&label=telethon&logo=python&logoColor=brightgreen&style=for-the-badge" /></a>
     <img alt="PYTHON" src="https://img.shields.io/badge/PYTHON-v3.9.6-purple?style=for-the-badge&logo=appveyor"/>
